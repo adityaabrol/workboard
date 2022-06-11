@@ -1,6 +1,6 @@
 # Todo Tracker
 
-### *Created By Pratyansh Agrawal*
+### *Created By Aditya Abrol*
 
 ### Tech Stack - Javascript / React / Tailwind / React-transition-group
 
